@@ -10,9 +10,10 @@ For this assessment you'll be creating any sort of CRUD app. The app should be a
 2. Use ActiveRecord with Sinatra.
 3. Use Multiple Models.
 4. Use at least one `has_many` relationship
-5. Must have user accounts. The user that created the content should be the only person who can modify that content
-6. Models must have validations to ensure that bad data isn't created
-7. Any validation failures must be shown to user with an error message
+5. Must have user accounts with the ability to register and log in
+6 Must limit content editing to the user who created that content
+7. Models must have validations to ensure that bad data isn't created
+8. Any validation failures must be shown to user with an error message
 
 ### Example Domains
 
@@ -38,12 +39,9 @@ We'll send an email to you soon to schedule a pairing process. If you don't hear
 
 ### Be Prepared to:
 
-1. Explain your code from execution point to exit point. We're making sure you wrote it and understand how it works, nothing else. 5-10 minutes
-2. Write tests together. You'll be responsible for making tests pass, not writing test code. However, you'll be expected to provide expected return data of methods. You'll need to know how your code should work, not rspec or testing. 20-30 minutes
-3. Refactor code. 20-30 minutes
-4. Extend the application with a new feature, more data, a different domain etc. 20-30 minutes
-5. Submit an improved version.
-6. Write a README.md.
+1. Explain your code from execution point to exit point. We're making sure you wrote it and understand how it works, nothing else. 10-15 minutes
+2. Refactor code. 10-15 minutes
+3. Confirm the project meets the [requirements](#requirements) 10-15 mins
 
 ### What to expect from the pairing session
 
