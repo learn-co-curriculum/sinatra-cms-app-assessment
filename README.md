@@ -91,7 +91,6 @@ You may not use a blog application or Twitter clone for your project, as we have
 - [RESTful Routing]
 - [Securing Passwords in Sinatra]
 - [Mechanics of Sessions]
-- [Video: Sinatra app from scratch]
 
 [CRUD]: https://github.com/learn-co-curriculum/active-record-crud-operations-lab
 [technical interviews]: https://www.brightnetwork.co.uk/career-path-guides/technology-it-software-development/five-ways-stand-out-your-technology/what-expect-technical-interview/
